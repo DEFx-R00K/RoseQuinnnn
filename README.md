@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RoseQuinnnn
+	- 👀 I’m interested in Learning to code.
+		- 🌱 I’m currently learning Java and Python
